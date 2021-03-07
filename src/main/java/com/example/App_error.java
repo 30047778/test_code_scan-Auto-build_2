@@ -1,11 +1,7 @@
-package com.example;
-public class App 
-{	
-	public static void main(String[] args) {
-	
-	}
-	public static void setArray(){
-	
-	
-	}
-}	
+package com.example;		
+public class SampleClass {		
+	public static void main(String[] args) {	
+		String buf = null;
+		System.out.println("buf length is " + buf.length());
+	}	
+}		
