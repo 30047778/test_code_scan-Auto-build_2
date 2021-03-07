@@ -10,5 +10,7 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+
+{
   public static void main( String[
-  public static void main( String[
+}
